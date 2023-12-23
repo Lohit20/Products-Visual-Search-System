@@ -31,7 +31,7 @@ Customers struggle to efficiently find desired products due to a lack of specifi
 
 ## 4. Customer Journey
 
-*Insert Image of Customer Journey*
+![Customer Journey](C:/Users/SyedMuhammadFahadZah/Desktop/i.PNG)
 
 ## 5. METHODOLOGY
 
@@ -56,7 +56,7 @@ The dataset contains 44.4k images of fashion products, each uniquely identified 
 
 ### 5.5 Results
 
-![Results][(C:/Users/SyedMuhammadFahadZah/Desktop/i.PNG)]
+![Results](C:/Users/SyedMuhammadFahadZah/Desktop/i.PNG)
 
 ## 6. 10-Year Vision
 

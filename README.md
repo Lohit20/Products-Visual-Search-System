@@ -31,7 +31,8 @@ Customers struggle to efficiently find desired products due to a lack of specifi
 
 ## 4. Customer Journey
 
-![Customer Journey](C:/Users/SyedMuhammadFahadZah/Desktop/i.PNG)
+![customer](https://github.com/Lohit20/Products-Visual-Search-System/assets/122743521/9a57b2e1-3f7d-4585-b3c2-d3626cb85a68)
+
 
 ## 5. METHODOLOGY
 
@@ -57,7 +58,7 @@ The dataset contains 44.4k images of fashion products, each uniquely identified 
 
 ### 5.5 Results
 
-![Results](C:/Users/SyedMuhammadFahadZah/Desktop/i.PNG)
+![result](https://github.com/Lohit20/Products-Visual-Search-System/assets/122743521/e0fa568d-c738-499c-a1be-f0ae1d23ff24)
 
 ## 6. 10-Year Vision
 

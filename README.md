@@ -47,7 +47,7 @@ The dataset contains 44.4k images of fashion products, each uniquely identified 
 
 ### 5.3 Model Architecture
 
-*Insert Image of Model Architecture*
+![ Model Architecture](C:/Users/SyedMuhammadFahadZah/Desktop/i.png)
 
 ### 5.4 Solution
 

@@ -56,7 +56,7 @@ The dataset contains 44.4k images of fashion products, each uniquely identified 
 
 ### 5.5 Results
 
-*Insert Images showing Results*
+![Results][(C:/Users/SyedMuhammadFahadZah/Desktop/i.PNG)]
 
 ## 6. 10-Year Vision
 
